@@ -16,7 +16,7 @@
   "dependencies": {
     "firebase": "^3.6.6",
     "jquery": "^3.1.1",
-    "moment": "^2.17.1",
+    "moment": "^2.29.2",
     "toastr": "^2.1.2",
     "vue": "^2.1.10",
     "vue-material": "^0.6.3",
